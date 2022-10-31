@@ -23,9 +23,11 @@ main{
     max-width: 327px;
     margin:auto;
 }
-h2{
+h1{
     padding: 15px 0px;
-    color:var(--Dark-blue)
+    color:var(--Dark-blue);
+    font-size: 1.4rem;
+    
 }
 p{
     padding-bottom: 20px;
