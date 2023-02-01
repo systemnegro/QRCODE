@@ -37,7 +37,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - GitHub - [@Camilo Almeida](https://github.com/systemnegro)
-- Frontend Mentor - [@Camilo Almeida](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Camilo Almeida](https://www.frontendmentor.io/profile/systemnegro)
 - Twitter - [@systemnegro](https://www.twitter.com/systemnegro)
 
 
